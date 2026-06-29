@@ -1,0 +1,5 @@
+{
+  "name": "zstradio-landing",
+  "private": true,
+  "scripts": { "start": "node server.js" }
+}
